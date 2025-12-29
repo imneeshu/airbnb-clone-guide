@@ -25,15 +25,15 @@ This tutorial covers:
 
 The tutorial is organized into clear, digestible sections:
 
-1. **[Project Setup](./guide/01-project-setup.md)** - Initialize your Vite + React project
-2. **[Folder Structure](./guide/02-folder-structure.md)** - Organize your codebase properly
-3. **[Components Explained](./guide/03-components.md)** - Understand component architecture
-4. **[Building Screens](./guide/04-building-screens.md)** - Create individual screens
-5. **[Mock Data](./guide/05-mock-data.md)** - Use mock data for development
-6. **[Fetch & Axios](./guide/06-fetch-axios.md)** - Handle API calls
-7. **[Hooks & Lifecycle](./guide/07-hooks-lifecycle.md)** - Master React hooks
-8. **[Practical Example](./guide/08-practical-example.md)** - 🔥 **Real network calls with hooks** - Learn by building!
-9. **[Networking Deep Dive](./guide/09-networking-deep-dive.md)** - Deep understanding of network requests
+1. **[Project Setup](./01-project-setup.md)** - Initialize your Vite + React project
+2. **[Folder Structure](./02-folder-structure.md)** - Organize your codebase properly
+3. **[Components Explained](./03-components.md)** - Understand component architecture
+4. **[Building Screens](./04-building-screens.md)** - Create individual screens
+5. **[Mock Data](./05-mock-data.md)** - Use mock data for development
+6. **[Fetch & Axios](./06-fetch-axios.md)** - Handle API calls
+7. **[Hooks & Lifecycle](./07-hooks-lifecycle.md)** - Master React hooks
+8. **[Practical Example](./08-practical-example.md)** - 🔥 **Real network calls with hooks** - Learn by building!
+9. **[Networking Deep Dive](./09-networking-deep-dive.md)** - Deep understanding of network requests
 
 ## 🎯 Prerequisites
 
@@ -62,5 +62,5 @@ Sections 8 and 9 now include **real working examples** with actual network calls
 
 Let's start building! 🏗️
 
-[Get Started →](./guide/getting-started.md)
+[Get Started →](./getting-started.md)
 
