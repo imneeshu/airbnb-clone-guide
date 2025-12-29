@@ -1,0 +1,14 @@
+{
+  "name": "airbnb-clone-tutorial",
+  "version": "1.0.0",
+  "description": "Step-by-step tutorial for building an Airbnb clone with React and Vite",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.31"
+  }
+}
